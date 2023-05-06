@@ -1,0 +1,14 @@
+:root {
+  /* 不明 */
+  --primary: #fffefb;
+  /* 下の注意書き */
+  --primary-text: #000000;
+  /* 点線の色 */
+  --secondary: rgba(29, 147, 160, 0.729);
+  /* 不明 */
+  --secondary-text: #f6fbfb;
+  /* ボックス内背景色 */
+  --accent: hsla(204, 100%, 99%, 0.926);
+  /* ボックス内の文字色 */
+  --accent-text: #3794a6;
+}
